@@ -1,2 +1,2 @@
 # Website-Vokasi-Laper
-Vokasi Laper adalah portal informasi kuliner yang perancangan awalnya untuk mahasiswa sekolah vokasi IPB. Fitur andalannya adalah pencarian lokasi makan yang secara otomatis menampilkan pilihan tempat makan dalam radius 100 meter dari titik lokasi mahasiswa, sehingga mempermudah perencanaan dan penemuan tempat makan terdekat.
+Vokasi Laper adalah portal kuliner yang awal pengembangannya untuk mahasiswa vokasi IPB, dilengkapi fitur pencarian lokasi makan dalam radius 100 meter dari posisi pengguna. Platform ini juga memungkinkan pedagang untuk mendaftarkan usahanya. Setelah terverifikasi, usaha tersebut akan ditampilkan sebagai mitra resmi di website kami.
